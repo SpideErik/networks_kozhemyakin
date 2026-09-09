@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="aDjHHeETfQnf6APYw1Qi">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-18" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" value="" vertex="1">
+          <mxGeometry height="359.5" width="500" x="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-31" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="kiP-RJ--bbBgZ4_jS_A2-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="140" />
+              <mxPoint x="50" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-1" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.pc;network2IconYOffset=-0.0593;network2IconW=0.9999;network2IconH=0.7096;" value="" vertex="1">
+          <mxGeometry height="35.480000000000004" width="49.995" x="154.01" y="83.29" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.laptop;network2IconW=1;network2IconH=0.5734;" value="" vertex="1">
+          <mxGeometry height="50" width="87.2" x="170.8" y="299.27000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-55" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="kiP-RJ--bbBgZ4_jS_A2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-4" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="50" y="448.39000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-8" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.vpn;" value="" vertex="1">
+          <mxGeometry height="50" width="43" x="450" y="59.269999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-10" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.globe;network2IconW=1;network2IconH=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="600" y="73.28999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-11" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.vpn;" value="" vertex="1">
+          <mxGeometry height="50" width="43" x="450" y="149.27" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-12" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.vpn;" value="" vertex="1">
+          <mxGeometry height="50" width="43" x="450" y="239.27" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-15" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" value="" vertex="1">
+          <mxGeometry height="37.1" width="50" x="50" y="81.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Mobile-50.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="26" x="128" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-20" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Mobile-50.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="26" x="166" y="230.01" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-21" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Mobile-50.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="26" x="201" y="232.17000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-22" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Mobile-50.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="26" x="201" y="230.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-23" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Mobile-50.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="26" x="165" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-24" parent="1" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" value="" vertex="1">
+          <mxGeometry height="59.9" width="63" x="100" y="294.37000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-27" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="kiP-RJ--bbBgZ4_jS_A2-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="488.4" />
+              <mxPoint x="30" y="103.4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-30" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=60;" value="Стационарные устройства&lt;div&gt;ПК, телевизор&lt;/div&gt;&lt;div&gt;подключены на gigabit ethernet&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" value="5Hz и 2.4 Hz wifi&lt;div&gt;для мобильных устройств&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="78" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-33" parent="kiP-RJ--bbBgZ4_jS_A2-32" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" value="" vertex="1">
+          <mxGeometry height="21" width="29.7" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-34" parent="1" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="78" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-36" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-34" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.619;exitY=-0.095;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.438;entryY=0.762;entryDx=0;entryDy=0;entryPerimeter=0;" target="kiP-RJ--bbBgZ4_jS_A2-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-39" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" value="Домашний сервер" vertex="1">
+          <mxGeometry height="130" width="130" x="204" y="423.28999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-40" parent="kiP-RJ--bbBgZ4_jS_A2-39" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+          <mxGeometry height="35.48" width="37" x="83" y="86.61" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-44" parent="kiP-RJ--bbBgZ4_jS_A2-39" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" value="" vertex="1">
+          <mxGeometry height="59.9" width="43" x="77" y="16.610000000000014" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-45" parent="kiP-RJ--bbBgZ4_jS_A2-39" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.data_storage;network2IconW=0.8252;network2IconH=0.9989;" value="" vertex="1">
+          <mxGeometry height="49.945" width="41.260000000000005" x="13" y="56.610000000000014" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-46" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fillColor=#0050ef;strokeColor=#001DBC;" target="kiP-RJ--bbBgZ4_jS_A2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-48" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.744;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" target="kiP-RJ--bbBgZ4_jS_A2-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="269.3" />
+              <mxPoint x="410" y="91.3" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-50" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.network_security;network2IconW=1;network2IconH=0.86;" value="" vertex="1">
+          <mxGeometry height="43" width="50" x="493" y="69.53" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-52" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.network_security;network2IconW=1;network2IconH=0.86;" value="" vertex="1">
+          <mxGeometry height="43" width="50" x="493" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-53" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.network;network2IconW=1;network2IconH=0.8601;" value="" vertex="1">
+          <mxGeometry height="43.004999999999995" width="50" x="409.40000000000003" y="424.88" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LAN" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="393.39" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WAN" vertex="1">
+          <mxGeometry height="30" width="60" x="144" y="450.89" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Входящий VPN для разделения трафика" vertex="1">
+          <mxGeometry height="80" width="138" x="340" y="259.27" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Исходящий&lt;div&gt;для зарубежных сервисов&lt;/div&gt;" vertex="1">
+          <mxGeometry height="49.95" width="118.5" x="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Исходящий&lt;div&gt;для России&lt;/div&gt;" vertex="1">
+          <mxGeometry height="49.95" width="118.5" x="493" y="199.27" as="geometry" />
+        </mxCell>
+        <mxCell id="kiP-RJ--bbBgZ4_jS_A2-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INTERNET" vertex="1">
+          <mxGeometry height="80" width="138" x="660" y="264.01" as="geometry" />
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-1" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="" vertex="1">
+          <mxGeometry height="47" width="60" x="404.40000000000003" y="494.59000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Резервный канал через LTE модем" vertex="1">
+          <mxGeometry height="59.9" width="87.2" x="390.8" y="543.2" as="geometry" />
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интернет провайдер" vertex="1">
+          <mxGeometry height="59.9" width="87.2" x="390.8" y="364.98" as="geometry" />
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-7" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="240" width="87.2" x="390.8" y="371.59000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=wire;dashed=1;" target="sU7dH7DIUzDMU_YZOxPZ-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="465.39" as="sourcePoint" />
+            <mxPoint x="390" y="465.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-16" edge="1" parent="1" source="kiP-RJ--bbBgZ4_jS_A2-40" style="endArrow=none;html=1;rounded=0;exitX=0.865;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=6;shape=wire;dashed=1;" target="sU7dH7DIUzDMU_YZOxPZ-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="360" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-17" edge="1" parent="1" source="sU7dH7DIUzDMU_YZOxPZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.116;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;endArrow=none;endFill=0;strokeWidth=6;shape=wire;dashed=1;" target="kiP-RJ--bbBgZ4_jS_A2-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="431.6" />
+              <mxPoint x="540" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sU7dH7DIUzDMU_YZOxPZ-19" edge="1" parent="1" source="sU7dH7DIUzDMU_YZOxPZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.688;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=6;endArrow=none;endFill=0;shape=wire;dashed=1;" target="sU7dH7DIUzDMU_YZOxPZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
