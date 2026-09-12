@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Подключение ПК к switch" id="sw_connect">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pc1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" value="🖥️ PC1" vertex="1">
+          <mxGeometry height="60" width="140" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pc2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" value="🖥️ PC2" vertex="1">
+          <mxGeometry height="60" width="140" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pc3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" value="🖥️ PC3" vertex="1">
+          <mxGeometry height="60" width="140" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pc4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontColor=#b85450;" value="🖥️ PC4" vertex="1">
+          <mxGeometry height="60" width="140" x="80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sw1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1;" value="🔀 SW1&lt;br&gt;&lt;font style=&quot;font-size:12px&quot;&gt;Коммутатор&lt;/font&gt;" vertex="1">
+          <mxGeometry height="460" width="220" x="600" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#333333;" value="Gi0/1" vertex="1">
+          <mxGeometry height="30" width="90" x="640" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#333333;" value="Gi0/2" vertex="1">
+          <mxGeometry height="30" width="90" x="640" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#333333;" value="Gi0/3" vertex="1">
+          <mxGeometry height="30" width="90" x="640" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#b85450;fontStyle=1;" value="Gi0/4" vertex="1">
+          <mxGeometry height="30" width="90" x="640" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="pc1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;endArrow=none;strokeWidth=2;strokeColor=#6c8ebf;html=1;" target="aFk-H-GGy0oy4lff7750-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="pc2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;endArrow=none;strokeWidth=2;strokeColor=#6c8ebf;html=1;" target="aFk-H-GGy0oy4lff7750-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="pc3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;endArrow=none;strokeWidth=2;strokeColor=#6c8ebf;html=1;" target="aFk-H-GGy0oy4lff7750-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="pc4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;endArrow=none;strokeWidth=3;strokeColor=#b85450;fontColor=#b85450;html=1;" target="p4" value="ОШИБКА">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="470" />
+              <mxPoint x="540" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="error" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#b85450;fontSize=24;fontStyle=1;" value="✕" vertex="1">
+          <mxGeometry height="44" width="44" x="350" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="note" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#7f6000;fontSize=15;" value="⚠ Auto-negotiation&lt;br&gt;отключено на Gi0/4" vertex="1">
+          <mxGeometry height="80" width="240" x="380" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="noteEdge" edge="1" parent="1" source="note" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;endArrow=classic;strokeColor=#d6b656;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="p4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-5" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="610" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-6" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="610" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-7" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="610" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-8" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="610" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-9" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="190" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-10" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="190" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-11" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="190" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="aFk-H-GGy0oy4lff7750-12" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp_alt;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="190" y="455" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
