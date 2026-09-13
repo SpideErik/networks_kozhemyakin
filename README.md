@@ -5,3 +5,5 @@
 [Домашнее задание 1](homework_01/README.md)
 
 [Домашнее задание 2](homework_02/README.md)
+
+[Домашнее задание 3](homework_03/README.md)
