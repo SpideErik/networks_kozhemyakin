@@ -7,9 +7,11 @@
 ### Блокировка в firewall
 
 Весь исходящий трафик
+
 ![](assets/01_outbound.png)
 
 Весь входящий трафик
+
 ![](assets/02_inbound.png)
 
 ### Работающий cisco packet tracer
