@@ -10,3 +10,4 @@
 
 [Домашнее задание 4 и 5](homework_04/README.md)
 
+[Домашнее задание 6](homework_06/README.md)
