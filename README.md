@@ -13,3 +13,5 @@
 [Домашнее задание 6](homework_06/README.md)
 
 [Домашнее задание 7](homework_07/README.md)
+
+[Домашнее задание 9](homework_09/README.md)
