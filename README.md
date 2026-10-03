@@ -15,3 +15,5 @@
 [Домашнее задание 7](homework_07/README.md)
 
 [Домашнее задание 9](homework_09/README.md)
+
+[Самостоятельная работа](test_01/README.md)
