@@ -17,3 +17,5 @@
 [Домашнее задание 9](homework_09/README.md)
 
 [Самостоятельная работа](test_01/README.md)
+
+[ДЗ №10 (Выжимка по TCP и UDP)](homework_10/README.md)
