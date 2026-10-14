@@ -19,3 +19,5 @@
 [Самостоятельная работа](test_01/README.md)
 
 [ДЗ №10 (Выжимка по TCP и UDP)](homework_10/README.md)
+
+[ДЗ №11 (Технология NAT)](homework_11/README.md)
