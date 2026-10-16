@@ -44,3 +44,27 @@ Router(config)#ip nat in sou li 1 int fa 0/1 ov
 
 ![](screens/03-dns-ping.png)
 
+## Настройка dns
+
+* Добавил A запись, проверил с PC0 доступность http сервера по имени
+
+![](screens/04-dns-a.png)
+
+* Добавил CNAME запись и проверил https://www.srv1.com/
+
+![](screens/05-dns-cname.png)
+
+* Настроил почту
+Т.к. MX записей в packet tracer нет, я настроил CNAME запись mail.srv1.com -> srv1.com
+
+![](screens/06-email.png)
+Внизу виден статус что почта отправлена и получена, DNS запросы.
+
+## Итоговая схема
+
+Запустил симуляцию для https запроса, все прошло
+
+![](screens/07-sch.png)
+
+Исходник схемы [sch1](src/sch1.pkt)
+
