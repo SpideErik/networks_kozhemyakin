@@ -21,3 +21,5 @@
 [ДЗ №10 (Выжимка по TCP и UDP)](homework_10/README.md)
 
 [ДЗ №11 (Технология NAT)](homework_11/README.md)
+
+[ДЗ №12 (DNS)](homework_12/README.md)
