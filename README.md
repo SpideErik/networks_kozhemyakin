@@ -23,3 +23,5 @@
 [ДЗ №11 (Технология NAT)](homework_11/README.md)
 
 [ДЗ №12 (DNS)](homework_12/README.md)
+
+[ДЗ №14 (HTTP-заголовки, статус-коды, MIME и кеширование)](homework_14/README.md)
