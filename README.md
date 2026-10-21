@@ -29,8 +29,8 @@
 
 Экзамен делал в ветке `exam` загрузил на github в 13:15, но ссылку добавил позже
 
-![Отчет](exam/README.md)
-![Схема](exam/src/sch.pkt)
+[Отчет](exam/README.md)
+[Схема](exam/src/sch.pkt)
 
 
 ## Теория
